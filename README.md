@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Justin 👋
 
-<!--
-**jmcdon17/jmcdon17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Engineer** | Full-Stack Web & IoT Developer | Pursuing B.S. EE @ St. Cloud State University
 
-Here are some ideas to get you started:
+## 🔧 What I Build
+- **Web Applications** — Node.js/Express back-ends, HTML/CSS front-ends, REST APIs
+- **IoT Systems** — ESP32 firmware (FreeRTOS/C++), sensor networks, real-time dashboards
+- **Automation Pipelines** — Python test automation, AI speech-to-text deployment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Web & Scripting:** `JavaScript` `TypeScript` `Python` `Node.js` `Express` `React` `SQL`  
+**Systems & Embedded:** `C` `C++` `C#` `Java` `ARM Assembly` `FreeRTOS` `ESP32`  
+**Engineering:** `MATLAB` `Verilog` `PCB Design`  
+**Tools:** `Git` `Linux` `Docker` `AWS`
+
+## 📌 Featured Project
+**[Automated Plant Irrigation & Control System](https://github.com/jmcdon17/AutoPlantIrrigMonSys-website)** — Full-stack IoT: Node.js/Express web dashboard + REST API + FreeRTOS/C++ firmware + custom PCB
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/justin-m-mcdonald)
